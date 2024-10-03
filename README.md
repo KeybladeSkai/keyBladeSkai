@@ -2,9 +2,10 @@
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
 <!-- Add a container and style it -->
-<div style="display: flex; justify-content: center;">
-  <img alt="MasterHead" style="width: 100%;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOrSzlBUNtNTA4vnr9nBGoz3WhCE_3fOHVIQ&s" />
+<div style="width: 100%; height: 100px; display: flex; justify-content: center; align-items: center; overflow: hidden;">
+  <img alt="MasterHead" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOrSzlBUNtNTA4vnr9nBGoz3WhCE_3fOHVIQ&s" />
 </div>
+
 
 <img align="right" alt="Coding" width="400" src="https://backiee.com/static/wallpapers/1920x1080/386745.jpg">
 
