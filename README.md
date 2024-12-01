@@ -12,7 +12,7 @@
 <p align="left"> <a href="https://twitter.com/keybladeskai" target="blank"><img src="https://img.shields.io/twitter/follow/keybladeskai?logo=twitter&style=for-the-badge" alt="keybladeskai" /></a> </p>
 
 - 🌱 I’m currently learning **React Native**
-- 👨‍💻 All of my projects are available at [https://my-portfolio-liard-gamma.vercel.app/](https://my-portfolio-liard-gamma.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://skai-lime.vercel.app/](https://skai-lime.vercel.app/)
 - 📫 How to reach me **asuleodu@gmail.com**
 - ⚡ Fun fact **I love Anime**
 
